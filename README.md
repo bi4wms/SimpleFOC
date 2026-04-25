@@ -9,6 +9,8 @@ ArduinoSimpleFOC一体板，STM32F103CBT6版本，包含磁编码器，直接装
 
 <img width="865" height="314" alt="image" src="https://github.com/user-attachments/assets/4f2d9b40-72d5-4333-b6d0-72097d29928a" />
 
+* Control vedio
+
 [![Demo Video](https://img.youtube.com/vi/-CYr3gOOTzE/0.jpg)](https://youtube.com/shorts/-CYr3gOOTzE)
 
 详细参见
