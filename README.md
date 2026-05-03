@@ -1,5 +1,7 @@
 # SimpleFOC
 
+<a href="https://www.buymeacoffee.com/bi4wms" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 This is an Arduino-compatible SimpleFOC integrated control board based on the STM32F103CBT6, featuring an onboard magnetic encoder and a compact design that allows direct mounting to the rear of a brushless motor.
 
 * Mounted on a **4010 brushless motor**
